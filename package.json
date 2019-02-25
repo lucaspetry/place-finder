@@ -1,0 +1,23 @@
+{
+  "name": "place-finder",
+  "version": "1.0.0",
+  "description": "Place Finder App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaspetry/place-finder.git"
+  },
+  "author": "Lucas May Petry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaspetry/place-finder/issues"
+  },
+  "homepage": "https://github.com/lucaspetry/place-finder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "sparql-client-2": "^0.6.3"
+  }
+}
